@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 # markdown
-<!-- hitwebcounter Code START -->
-<a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=7552043&style=0038&nbdigits=5&type=page&initCount=1000" title="Web Counter" Alt="counter free"   border="0" >
-</a>       
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/tracyalison11)]
+
+# html
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/tracyalison11" alt="Hits" />  
 
 <!--
 **tracyalison11/tracyalison11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
