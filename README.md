@@ -1,10 +1,10 @@
-### Hi there 👋
+### I'm Tracy 👋
+
+> > Frontend work is about contructing wide, well-lit, sturdy, accessible, efficient, and reliable bridges between computers and the humans they are meant to serve
+
 
 # Profile Views
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/tracyalison11)
-
-![](TheFinalCountdown.wav)
-
 
 <!--
 **tracyalison11/tracyalison11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
